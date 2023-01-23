@@ -1,0 +1,15 @@
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\bin\Debug\net6.0\17-01-2023task.exe
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\bin\Debug\net6.0\17-01-2023task.deps.json
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\bin\Debug\net6.0\17-01-2023task.runtimeconfig.json
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\bin\Debug\net6.0\17-01-2023task.dll
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\bin\Debug\net6.0\17-01-2023task.pdb
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\17-01-2023task.csproj.AssemblyReference.cache
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\17-01-2023task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\17-01-2023task.AssemblyInfoInputs.cache
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\17-01-2023task.AssemblyInfo.cs
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\17-01-2023task.csproj.CoreCompileInputs.cache
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\17-01-2023task.dll
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\refint\17-01-2023task.dll
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\17-01-2023task.pdb
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\17-01-2023task.genruntimeconfig.cache
+C:\Users\muhammed.ka\source\repos\17-01-2023-solution\17-01-2023task\obj\Debug\net6.0\ref\17-01-2023task.dll
